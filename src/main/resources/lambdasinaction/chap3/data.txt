@@ -3,5 +3,3 @@ Java
 Lambdas
 In
 Action
-
-Do some change
